@@ -1,0 +1,13 @@
+body {
+	background-color: darkgrey;
+}
+
+iframe {	
+	display: none;
+	width: 98%;
+	height: 40%;
+	border: black solid 1px;
+	border-radius: 25px;
+	margin: 10px;
+	transform: scale(0.90);
+}
